@@ -4,7 +4,7 @@
 
 ## Linguagens:
 
-### --> JS e Java 
+### --> JS, Java e Python 
 
 ## Frameworks:
 
