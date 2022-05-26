@@ -4,8 +4,7 @@
 
 ## Linguagens:
 
-### --> JS, Java e Python 
-
+### --> SQL,Java,HTML,CSS,JS
 ## Frameworks:
 
 ### --> Ionic e Angular
