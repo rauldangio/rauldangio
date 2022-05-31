@@ -4,7 +4,7 @@
 
 ## Linguagens:
 
-### --> SQL,Java,HTML,CSS,JS
+### --> SQL,Java,HTML,CSS,JS,TS
 ## Frameworks:
 
 ### --> Ionic e Angular
