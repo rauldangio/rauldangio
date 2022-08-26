@@ -1,4 +1,4 @@
-'''javascript
+```javascript
 const me = {
   name: 'raul',
   age: 16,
@@ -8,5 +8,4 @@ const me = {
   learning: ['docker','eletronic','hacking'],
   SO: 'ubuntu',
 }
-
-'''
+```
