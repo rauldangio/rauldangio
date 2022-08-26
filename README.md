@@ -1,10 +1,12 @@
-# Ola! Me chamo Raul
+'''javascript
+const me = {
+  name: 'raul',
+  age: 16,
+  skills: ['back-end developer','pentester'],
+  main-langs: ['javascript','python','java','sql'],
+  casual-langs: 'c++', 
+  learning: ['docker','eletronic','hacking'],
+  SO: 'ubuntu',
+}
 
-## Estudante de Desenvolvimentos de Sistemas na ETEC
-
-## Linguagens:
-
-### --> SQL,Java,HTML,CSS,JS,TS
-## Frameworks:
-
-### --> Ionic e Angular
+'''
