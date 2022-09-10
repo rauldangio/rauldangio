@@ -1,11 +1,11 @@
 ```javascript
-const me = {
+const Raul = {
   name: 'raul',
   age: 16,
   skills: ['back-end developer','pentester'],
   main-langs: ['javascript','python','java','sql'],
   casual-langs: 'c++', 
-  learning: ['docker','eletronic','hacking'],
-  SO: 'ubuntu',
+  learning: ['go','eletronic','hacking','network'],
+  SO: 'arch'
 }
 ```
