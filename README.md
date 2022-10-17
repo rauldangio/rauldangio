@@ -4,7 +4,7 @@
   :age => 16,
   :skills => ['back-end developer','pentester'],
   :main_langs => ['ruby','java'],
-  :web_langs => ['html','css','javascript','sql']
+  :web_langs => ['html','css','javascript','sql'],
   :casual_langs => 'c++', 
   :learning => ['ruby','offensive security','linux'],
   :SO => 'arch'
