@@ -1,11 +1,13 @@
-```javascript
-const Raul = {
-  name: 'raul',
-  age: 16,
-  skills: ['back-end developer','pentester'],
-  main-langs: ['javascript','python','java','sql'],
-  casual-langs: 'c++', 
-  learning: ['go','eletronic','hacking','network'],
-  SO: 'arch'
+```ruby
+  Raul = {
+  :name => "raul",
+  :age => 16,
+  :skills => ['back-end developer','pentester'],
+  :main-langs => ['ruby','java'],
+  :web-langs => ['html','css','javascript','sql']
+  :casual-langs => 'c++', 
+  :learning => ['ruby','offensive security','linux'],
+  :SO => 'arch'
+  :like_to_do => ['learning linux', 'play retro games']
 }
 ```
