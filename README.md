@@ -2,7 +2,7 @@
 class Person:
   name = "raul",
   age = 17,
-  whatIDo = ["Pentest","Back-end Devoloper"],
+  whatIDo = ["Pentest","Back-end Developer"],
   web = {
     "front-end": {
       "langs": ["javascript", "typescript"],
