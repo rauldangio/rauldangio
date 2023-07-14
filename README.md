@@ -17,7 +17,7 @@ class Person:
   likeToDo = ["roblox","CTF"]
   
   def __str__(self):
-    return f"{self.name}{self.age}{self.web}{self.tech}{self.likeToDo}"
+    return f"{self.name} {self.age} {self.web} {self.tech} {self.likeToDo}"
 
 raul = Person()
 print(raul)
